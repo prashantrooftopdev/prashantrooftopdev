@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Prashant Humbe
 
-<!--
-**prashantrooftopdev/prashantrooftopdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Full-Stack Developer
 
-Here are some ideas to get you started:
+💻 PHP • Yii2 • Angular • Node.js • Docker
+🚀 Building scalable, reliable & production-ready web applications.
+🔧 Passionate about clean code, APIs, cloud technologies & modern development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Backend: PHP, Yii2, Node.js
+Frontend: Angular, JavaScript, HTML, CSS
+Database: MySQL
+DevOps: Docker, Nginx, AWS
+Tools: Git, GitHub, VS Code
+
+⭐ Code. Build. Improve. Repeat.
